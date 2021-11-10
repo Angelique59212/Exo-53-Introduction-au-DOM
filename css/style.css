@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    color: ;
+    background: antiquewhite;
+    font-size: 1.4rem;
+}
+
+#second , #fifth {
+    animation-name: couleurs;
+    animation-duration: 4s;
+}
+
+@keyframes couleurs {
+    from {
+        background-color: aliceblue;
+        font-size: 0.8rem;
+    }
+    to {
+        background-color: aquamarine;
+        font-size: 2rem;
+    }
+}

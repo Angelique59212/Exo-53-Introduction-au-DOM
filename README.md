@@ -10,14 +10,16 @@ Créez votre fichier JavaScript
 ## Fichier HTML
 
     1. Votre fichier HTML doit contenir 5 paragraphes avec du lorem.
-    2. Votre fichier HTML doit contenir au moins 10 span disposant de la classe spanTest, ne donnez aucun style CSS !! Ajoutez du texte
+    2. Votre fichier HTML doit contenir au moins 10 span disposant de la classe spanTest, ne donnez aucun style CSS !! 
+    Ajoutez du texte
     3. Votre fichier HTML doit contenir au moins 5 liens ne pointant sur rien du tout pour le moment !
     
 ## Fichier CSS
  
     4. Dans le fichier CSS, appliquez un background à votre body.
     5. Définissez la taille des polices de caractères.
-    6. Définissez une animation qui sera utilisée sur un des paragraphes, ne l'utilisez pas tout de suite ( ne l'assignez à rien ! )
+    6. Définissez une animation qui sera utilisée sur un des paragraphes, ne l'utilisez pas tout de suite 
+    ( ne l'assignez à rien ! )
     
 ## Fichier JavaScript
 
@@ -33,4 +35,6 @@ Créez votre fichier JavaScript
 
 ## Théorie
 
-getElementById et querySelector vous permettent de récupérer un élément de votre page HTML, si vous devez effectuer plusieurs manipulations sur cet élément, alors n'hésitez pas à le stocker dans une variable afin de ne pas réécrire à chaque fois le même code ! En tant que développeur, on évite au maximum les répétitions !!
+getElementById et querySelector vous permettent de récupérer un élément de votre page HTML, si vous devez effectuer
+plusieurs manipulations sur cet élément, alors n'hésitez pas à le stocker dans une variable afin de ne pas réécrire 
+à chaque fois le même code ! En tant que développeur, on évite au maximum les répétitions !!
